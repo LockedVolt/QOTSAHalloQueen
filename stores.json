@@ -9,7 +9,8 @@
     "additional": "",
     "instagram": "@10000hzrecords",
     "coordinates": "{\"lat\": 32.6341484, \"lon\": -85.4083627}",
-    "time": "6 PM"
+    "time": "6 PM",
+    "state": "Alabama"
   },
   {
     "store": "AFK Books & Records",
@@ -21,7 +22,8 @@
     "additional": "",
     "instagram": "@afkbooksandrecords",
     "coordinates": "{\"lat\": 36.8496579, \"lon\": -75.9760751}",
-    "time": "7 PM"
+    "time": "7 PM",
+    "state": "Virginia"
   },
   {
     "store": "Amoeba SF",
@@ -33,7 +35,8 @@
     "additional": "",
     "instagram": "",
     "coordinates": "{\"lat\": 37.7689367, \"lon\": -122.4526453}",
-    "time": "2 PM"
+    "time": "2 PM",
+    "state": "California"
   },
   {
     "store": "Attic Records",
@@ -45,7 +48,8 @@
     "additional": "",
     "instagram": "",
     "coordinates": "{\"lat\": 40.4805764, \"lon\": -79.9747034}",
-    "time": "12 PM"
+    "time": "12 PM",
+    "state": "Pennsylvania"
   },
   {
     "store": "Darkside Records",
@@ -57,7 +61,8 @@
     "additional": "",
     "instagram": "@darksiderecordspk",
     "coordinates": "{\"lat\": 41.70207, \"lon\": -73.9279839}",
-    "time": "1 PM"
+    "time": "1 PM",
+    "state": "New York"
   },
   {
     "store": "Dearborn Music",
@@ -69,7 +74,8 @@
     "additional": "",
     "instagram": "@dearbornmusic",
     "coordinates": "{\"lat\": 42.3032516, \"lon\": -83.2521923}",
-    "time": "3 PM"
+    "time": "3 PM",
+    "state": "Michigan"
   },
   {
     "store": "Down In The Valley",
@@ -81,7 +87,8 @@
     "additional": "",
     "instagram": "@downinthevalley",
     "coordinates": "{\"lat\": 44.9850699, \"lon\": -93.3828074}",
-    "time": "12 PM"
+    "time": "12 PM",
+    "state": "Minnesota"
   },
   {
     "store": "Easy Street Records",
@@ -93,7 +100,8 @@
     "additional": "",
     "instagram": "@easystreetrecords",
     "coordinates": "{\"lat\": 47.5614664, \"lon\": -122.3870841}",
-    "time": "7 PM"
+    "time": "7 PM",
+    "state": "Washington"
   },
   {
     "store": "Electric Fetus 2",
@@ -105,7 +113,8 @@
     "additional": "",
     "instagram": "@electricfetusmpls",
     "coordinates": "{\"lat\": 44.9623832, \"lon\": -93.2705033}",
-    "time": "11 AM"
+    "time": "11 AM",
+    "state": "Minnesota"
   },
   {
     "store": "End Of An Ear",
@@ -117,7 +126,8 @@
     "additional": "",
     "instagram": "@endofanear",
     "coordinates": "{\"lat\": 30.2290759, \"lon\": -97.7839624}",
-    "time": "1 PM"
+    "time": "1 PM",
+    "state": "Texas"
   },
   {
     "store": "Eroding Winds (Appleton)",
@@ -129,7 +139,8 @@
     "additional": "",
     "instagram": "@erodingwindsappleton",
     "coordinates": "{\"lat\": 44.2619022, \"lon\": -88.4090727}",
-    "time": "3 PM"
+    "time": "3 PM",
+    "state": "Wisconsin"
   },
   {
     "store": "Eroding Winds (Oshkosh)",
@@ -141,7 +152,8 @@
     "additional": "",
     "instagram": "@erodingwinds",
     "coordinates": "{\"lat\": 44.0188268, \"lon\": -88.5373458}",
-    "time": "3 PM"
+    "time": "3 PM",
+    "state": "Wisconsin"
   },
   {
     "store": "Going Under Ground Bakersfield",
@@ -153,7 +165,8 @@
     "additional": "",
     "instagram": "",
     "coordinates": "{\"lat\": 35.3738712, \"lon\": -119.019463}",
-    "time": "1 PM"
+    "time": "1 PM",
+    "state": "California"
   },
   {
     "store": "Grimeys",
@@ -165,7 +178,8 @@
     "additional": "",
     "instagram": "@grimeys",
     "coordinates": "{\"lat\": 36.2036753, \"lon\": -86.74107149999999}",
-    "time": "4:30 PM"
+    "time": "4:30 PM",
+    "state": "Tennessee"
   },
   {
     "store": "Guestroom Records Highlands",
@@ -177,7 +191,8 @@
     "additional": "",
     "instagram": "@guestroomrecordslouisville",
     "coordinates": "{\"lat\": 38.2371498, \"lon\": -85.7186928}",
-    "time": "3 PM"
+    "time": "3 PM",
+    "state": "Kentucky"
   },
   {
     "store": "Guestroom Records Norman",
@@ -189,7 +204,8 @@
     "additional": "",
     "instagram": "@guestroom",
     "coordinates": "{\"lat\": 35.5080248, \"lon\": -97.530075}",
-    "time": "12 PM"
+    "time": "12 PM",
+    "state": "Oklahoma"
   },
   {
     "store": "Luna Record Shop",
@@ -201,7 +217,8 @@
     "additional": "",
     "instagram": "@lunarecordshop",
     "coordinates": "{\"lat\": 35.9251, \"lon\": -86.8689}",
-    "time": "4 PM"
+    "time": "4 PM",
+    "state": "Tennessee"
   },
   {
     "store": "Lunchbox Records",
@@ -213,7 +230,8 @@
     "additional": "",
     "instagram": "@LUNCHBOXRECORDS",
     "coordinates": "{\"lat\": 35.2218842, \"lon\": -80.8234382}",
-    "time": "6 PM"
+    "time": "6 PM",
+    "state": "North Carolina"
   },
   {
     "store": "M-Theory Music",
@@ -225,7 +243,8 @@
     "additional": "",
     "instagram": "",
     "coordinates": "{\"lat\": 32.7497579, \"lon\": -117.1707718}",
-    "time": "5 PM"
+    "time": "5 PM",
+    "state": "California"
   },
   {
     "store": "MadCity Music",
@@ -237,7 +256,8 @@
     "additional": "",
     "instagram": "",
     "coordinates": "{\"lat\": 43.09204, \"lon\": -89.3545131}",
-    "time": "12 PM"
+    "time": "12 PM",
+    "state": "Wisconsin"
   },
   {
     "store": "Mills Record Company",
@@ -249,7 +269,8 @@
     "additional": "",
     "instagram": "@MillsRecords",
     "coordinates": "{\"lat\": 32.864406, \"lon\": -96.6052385}",
-    "time": "3 PM"
+    "time": "3 PM",
+    "state": "Texas"
   },
   {
     "store": "Moldy Toes Records",
@@ -261,7 +282,8 @@
     "additional": "",
     "instagram": "@moldytoesrecords",
     "coordinates": "{\"lat\": 33.4267532, \"lon\": -117.6115653}",
-    "time": "3 PM"
+    "time": "3 PM",
+    "state": "California"
   },
   {
     "store": "Music Millennium",
@@ -273,7 +295,8 @@
     "additional": "",
     "instagram": "@musicmillennium",
     "coordinates": "{\"lat\": 45.5226625, \"lon\": -122.6320295}",
-    "time": "7 PM"
+    "time": "7 PM",
+    "state": "Oregon"
   },
   {
     "store": "Park Ave CDs",
@@ -285,7 +308,8 @@
     "additional": "",
     "instagram": "",
     "coordinates": "{\"lat\": 28.5675704, \"lon\": -81.3466293}",
-    "time": "5 PM"
+    "time": "5 PM",
+    "state": "Florida"
   },
   {
     "store": "Permanent",
@@ -297,7 +321,8 @@
     "additional": "",
     "instagram": "@permanentrecords",
     "coordinates": "{\"lat\": 34.1008522, \"lon\": -118.235085}",
-    "time": "6 PM"
+    "time": "6 PM",
+    "state": "California"
   },
   {
     "store": "Pinwheel Records",
@@ -309,7 +334,8 @@
     "additional": "",
     "instagram": "@pinwheelrecords",
     "coordinates": "{\"lat\": 41.8577575, \"lon\": -87.6634493}",
-    "time": "2 PM"
+    "time": "2 PM",
+    "state": "Illinois"
   },
   {
     "store": "Rattleback Records",
@@ -321,7 +347,8 @@
     "additional": "",
     "instagram": "@rattlebackrecords",
     "coordinates": "{\"lat\": 41.9801036, \"lon\": -87.6681485}",
-    "time": "1 PM"
+    "time": "1 PM",
+    "state": "Illinois"
   },
   {
     "store": "Record Exchange Boise",
@@ -333,7 +360,8 @@
     "additional": "",
     "instagram": "",
     "coordinates": "{\"lat\": 43.6181639, \"lon\": -116.2067335}",
-    "time": "1 PM"
+    "time": "1 PM",
+    "state": "Idaho"
   },
   {
     "store": "Retrofit",
@@ -345,7 +373,8 @@
     "additional": "",
     "instagram": "",
     "coordinates": "{\"lat\": 30.4351887, \"lon\": -84.2878889}",
-    "time": "6 PM"
+    "time": "6 PM",
+    "state": "Florida"
   },
   {
     "store": "Rough Trade",
@@ -357,7 +386,8 @@
     "additional": "",
     "instagram": "@roughtradenyc",
     "coordinates": "{\"lat\": 40.7595192, \"lon\": -73.9804776}",
-    "time": "12 PM"
+    "time": "12 PM",
+    "state": "New York"
   },
   {
     "store": "Seasick Records",
@@ -369,7 +399,8 @@
     "additional": "",
     "instagram": "@seasickrecords",
     "coordinates": "{\"lat\": 33.5159204, \"lon\": -86.785052}",
-    "time": "1 PM"
+    "time": "1 PM",
+    "state": "Alabama"
   },
   {
     "store": "Shuga Records",
@@ -381,7 +412,8 @@
     "additional": "",
     "instagram": "",
     "coordinates": "{\"lat\": 41.9047837, \"lon\": -87.6692246}",
-    "time": "6 PM"
+    "time": "6 PM",
+    "state": "Illinois"
   },
   {
     "store": "Siren Records",
@@ -393,7 +425,8 @@
     "additional": "",
     "instagram": "@sirenrecords",
     "coordinates": "{\"lat\": 40.3104757, \"lon\": -75.130001}",
-    "time": "7 PM"
+    "time": "7 PM",
+    "state": "Pennsylvania"
   },
   {
     "store": "Sonic Boom",
@@ -405,7 +438,8 @@
     "additional": "",
     "instagram": "@sonicboomrecords",
     "coordinates": "{\"lat\": 47.6685217, \"lon\": -122.3850971}",
-    "time": "6 PM"
+    "time": "6 PM",
+    "state": "Washington"
   },
   {
     "store": "Stinkweeds",
@@ -417,7 +451,8 @@
     "additional": "",
     "instagram": "@stinkweedsrecords",
     "coordinates": "{\"lat\": 33.5095123, \"lon\": -112.0746694}",
-    "time": "4 PM"
+    "time": "4 PM",
+    "state": "Arizona"
   },
   {
     "store": "Streetlight Records San Jose",
@@ -429,7 +464,8 @@
     "additional": "",
     "instagram": "@streetlightrecords",
     "coordinates": "{\"lat\": 37.3079327, \"lon\": -121.9312436}",
-    "time": "5 PM"
+    "time": "5 PM",
+    "state": "California"
   },
   {
     "store": "Streetlight Records Santa Cruz",
@@ -441,7 +477,8 @@
     "additional": "",
     "instagram": "@streetlightrecordssantacruz",
     "coordinates": "{\"lat\": 36.9707788, \"lon\": -122.025404}",
-    "time": "5 PM"
+    "time": "5 PM",
+    "state": "California"
   },
   {
     "store": "The Sound Garden",
@@ -453,7 +490,8 @@
     "additional": "",
     "instagram": "@sg_bmore",
     "coordinates": "{\"lat\": 39.28157, \"lon\": -76.5943617}",
-    "time": "5 PM"
+    "time": "5 PM",
+    "state": "Maryland"
   },
   {
     "store": "The Sound Garden",
@@ -465,7 +503,8 @@
     "additional": "",
     "instagram": "@sg_cuse",
     "coordinates": "{\"lat\": 43.0469325, \"lon\": -76.1484626}",
-    "time": "5 PM"
+    "time": "5 PM",
+    "state": "New York"
   },
   {
     "store": "Tonevendor",
@@ -477,7 +516,8 @@
     "additional": "",
     "instagram": "@tonevendor",
     "coordinates": "{\"lat\": 29.8922274, \"lon\": -81.3124942}",
-    "time": "5 PM"
+    "time": "5 PM",
+    "state": "Florida"
   },
   {
     "store": "Used Kids Records",
@@ -489,7 +529,8 @@
     "additional": "",
     "instagram": "@used_kids_records",
     "coordinates": "{\"lat\": 40.0145623, \"lon\": -83.0000245}",
-    "time": "2 PM"
+    "time": "2 PM",
+    "state": "Ohio"
   },
   {
     "store": "Vinyl Junkies",
@@ -501,7 +542,8 @@
     "additional": "",
     "instagram": "",
     "coordinates": "{\"lat\": 32.729308, \"lon\": -117.12941}",
-    "time": "4 PM"
+    "time": "4 PM",
+    "state": "California"
   },
   {
     "store": "Waterloo Records",
@@ -513,7 +555,8 @@
     "additional": "",
     "instagram": "",
     "coordinates": "{\"lat\": 30.271685, \"lon\": -97.753995}",
-    "time": "4 PM"
+    "time": "4 PM",
+    "state": "Texas"
   },
   {
     "store": "Yellow Dog Discs",
@@ -525,7 +568,8 @@
     "additional": "",
     "instagram": "@yellowdogdiscs",
     "coordinates": "{\"lat\": 34.2112, \"lon\": -77.8723}",
-    "time": "6 PM"
+    "time": "6 PM",
+    "state": "North Carolina"
   },
   {
     "store": "Al Toque",
@@ -537,7 +581,8 @@
     "url": "",
     "additional": "",
     "instagram": "",
-    "time": "12 PM"
+    "time": "12 PM",
+    "state": ""
   },
   {
     "store": "Casa da Mia",
@@ -549,7 +594,8 @@
     "url": "",
     "additional": "",
     "instagram": "",
-    "time": "12 PM"
+    "time": "12 PM",
+    "state": ""
   },
   {
     "store": "Cassadaga Cafe and Vinyl",
@@ -561,7 +607,8 @@
     "url": "",
     "additional": "",
     "instagram": "",
-    "time": "12 PM"
+    "time": "12 PM",
+    "state": ""
   },
   {
     "store": "La Roma Records",
@@ -573,7 +620,8 @@
     "url": "",
     "additional": "",
     "instagram": "",
-    "time": "12 PM"
+    "time": "12 PM",
+    "state": ""
   },
   {
     "store": "La Roma Records (Coyoacán)",
@@ -585,7 +633,8 @@
     "url": "",
     "additional": "",
     "instagram": "",
-    "time": "12 PM"
+    "time": "12 PM",
+    "state": ""
   },
   {
     "store": "La Roma Records (Roma)",
@@ -597,7 +646,8 @@
     "url": "",
     "additional": "",
     "instagram": "",
-    "time": "12 PM"
+    "time": "12 PM",
+    "state": ""
   },
   {
     "store": "Lava Records",
@@ -609,7 +659,8 @@
     "url": "",
     "additional": "",
     "instagram": "",
-    "time": "12 PM"
+    "time": "12 PM",
+    "state": ""
   },
   {
     "store": "Los Silencios",
@@ -621,7 +672,8 @@
     "url": "",
     "additional": "",
     "instagram": "",
-    "time": "12 PM"
+    "time": "12 PM",
+    "state": ""
   },
   {
     "store": "MusicLab Records",
@@ -633,7 +685,8 @@
     "url": "",
     "additional": "",
     "instagram": "",
-    "time": "12 PM"
+    "time": "12 PM",
+    "state": ""
   },
   {
     "store": "Musicomio",
@@ -645,7 +698,8 @@
     "url": "",
     "additional": "",
     "instagram": "",
-    "time": "12 PM"
+    "time": "12 PM",
+    "state": ""
   },
   {
     "store": "Velvet Records",
@@ -657,6 +711,7 @@
     "url": "",
     "additional": "",
     "instagram": "",
-    "time": "12 PM"
+    "time": "12 PM",
+    "state": ""
   }
 ]
