@@ -1,0 +1,95 @@
+body {
+  background-color: #09070b;
+  color: #f4eff8;
+}
+
+a {
+  color: #bd70f4;
+}
+
+.intro {
+  text-shadow: 0 2px 14px #09070b;
+}
+
+.countries ul a {
+  color: #52d66c;
+}
+
+.countries ul li.active a {
+  color: #c47df2;
+}
+
+.stores__list h2 {
+  color: #bd70f4;
+}
+
+.row {
+  background: rgba(10, 38, 20, 0.9);
+  border-color: #397b48;
+  transition: border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.row:hover {
+  border-color: #a954dc;
+  box-shadow: 0 0 16px rgba(169, 84, 220, 0.25);
+}
+
+.row__name {
+  color: #65dc7d;
+}
+
+.row__phone {
+  color: #d9cde2;
+}
+
+.row__url a {
+  color: #c47df2;
+}
+
+#map {
+  border: 1px solid #75418f;
+  box-shadow: 0 0 24px rgba(132, 55, 168, 0.3);
+}
+
+#map .mapboxgl-canvas {
+  filter: hue-rotate(300deg) saturate(0.8) brightness(0.7);
+}
+
+#map .mapboxgl-marker svg {
+  filter: hue-rotate(300deg) saturate(1.2) brightness(1.15);
+}
+
+.mapboxgl-ctrl-group {
+  background: #17101e;
+}
+
+.mapboxgl-ctrl-group button {
+  filter: invert(1) sepia(0.5) saturate(2.5) hue-rotate(225deg);
+}
+
+.mapboxgl-ctrl-group button + button {
+  border-top-color: #4a3457;
+}
+
+.mapboxgl-ctrl-attrib {
+  background-color: rgba(16, 11, 20, 0.8);
+  color: #e7d9ed;
+}
+
+.mapboxgl-ctrl-attrib a {
+  color: #c47df2;
+}
+
+.mapboxgl-popup-content {
+  background: #102416;
+  color: #f4eff8;
+}
+
+.mapboxgl-popup-content a {
+  color: #c47df2;
+}
+
+.mapboxgl-popup-tip {
+  border-top-color: #102416;
+  border-bottom-color: #102416;
+}
