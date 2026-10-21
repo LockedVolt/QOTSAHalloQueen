@@ -467,18 +467,7 @@
     "coordinates": "{\"lat\": 50.8276429, \"lon\": 3.2659884}",
     "state": ""
   },
-  {
-    "store": "Casa da Mia",
-    "city": "São Paulo",
-    "address": "",
-    "coordinates": "{\"lat\": -23.5506507, \"lon\": -46.6333824}",
-    "country": "Brazil",
-    "phone": "",
-    "url": "",
-    "additional": "",
-    "instagram": "",
-    "state": ""
-  },
+
   {
     "store": "Intercommunal Music",
     "city": "Sao Paulo",
@@ -1560,7 +1549,7 @@
     "state": ""
   },
   {
-    "store": "Rough Trade",
+    "store": "Rough Trade ",
     "city": "Berlin",
     "address": "Ganghoferstraße 10, 12043 Berlin, Germany",
     "country": "Germany",
