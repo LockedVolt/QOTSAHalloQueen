@@ -27,4 +27,51 @@
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg>
       </a>
     </nav>
+    <style>
+      #map-fallback-msg{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:80%;text-align:center;color:#fff;font-family:inherit;font-size:.9em;z-index:4;}
+      #map-fallback-msg a{color:#fff;text-decoration:underline;}
+    </style>
+    <script>
+      (function () {
+        function init() {
+          var map = document.getElementById('map');
+          if (!map) {
+            requestAnimationFrame(init);
+            return;
+          }
+          if (!map.style.position) map.style.position = 'relative';
+
+          function showFallback() {
+            if (document.getElementById('map-fallback-msg')) return;
+            var msg = document.createElement('div');
+            msg.id = 'map-fallback-msg';
+            msg.innerHTML = 'The map couldn\'t load in this browser. Try a different browser, or <a href="stores.json" target="_blank" rel="noopener">view the store list</a>.';
+            map.appendChild(msg);
+          }
+
+          var supported = true;
+          try {
+            supported = !window.mapboxgl || typeof window.mapboxgl.supported !== 'function' || window.mapboxgl.supported();
+          } catch (e) {
+            supported = false;
+          }
+          if (!supported) {
+            showFallback();
+            return;
+          }
+
+          setTimeout(function () {
+            var canvas = map.querySelector('canvas');
+            var hasWebGL = false;
+            if (canvas) {
+              try {
+                hasWebGL = !!(canvas.getContext('webgl') || canvas.getContext('webgl2') || canvas.getContext('experimental-webgl'));
+              } catch (e) {}
+            }
+            if (!hasWebGL) showFallback();
+          }, 8000);
+        }
+        init();
+      })();
+    </script>
   </body></html>
