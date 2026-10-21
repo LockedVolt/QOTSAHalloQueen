@@ -28,6 +28,9 @@
       </a>
     </nav>
     <style>
+      #vinyl-map-overlay{position:absolute;top:0;left:0;width:100%;height:100%;z-index:5;border-radius:50%;overflow:hidden;background:#000;transition:opacity .6s ease;}
+      #vinyl-map-overlay.vinyl-map-overlay--hidden{opacity:0;pointer-events:none;}
+      #vinyl-map-overlay video{display:block;width:100%;height:100%;object-fit:cover;}
       #map-fallback-msg{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:80%;text-align:center;color:#fff;font-family:inherit;font-size:.9em;z-index:4;}
       #map-fallback-msg a{color:#fff;text-decoration:underline;}
     </style>
@@ -57,19 +60,42 @@
           }
           if (!supported) {
             showFallback();
-            return;
+          } else {
+            setTimeout(function () {
+              var canvas = map.querySelector('canvas');
+              var hasWebGL = false;
+              if (canvas) {
+                try {
+                  hasWebGL = !!(canvas.getContext('webgl') || canvas.getContext('webgl2') || canvas.getContext('experimental-webgl'));
+                } catch (e) {}
+              }
+              if (!hasWebGL) showFallback();
+            }, 9500);
           }
 
-          setTimeout(function () {
-            var canvas = map.querySelector('canvas');
-            var hasWebGL = false;
-            if (canvas) {
-              try {
-                hasWebGL = !!(canvas.getContext('webgl') || canvas.getContext('webgl2') || canvas.getContext('experimental-webgl'));
-              } catch (e) {}
-            }
-            if (!hasWebGL) showFallback();
-          }, 8000);
+          var overlay = document.createElement('div');
+          overlay.id = 'vinyl-map-overlay';
+          overlay.innerHTML =
+            '<video autoplay muted playsinline preload="auto" poster="img/vinyl-loading-poster.jpg">' +
+            '<source src="vid/vinyl-loading-blk.mp4" type="video/mp4">' +
+            '</video>';
+          map.appendChild(overlay);
+
+          var video = overlay.querySelector('video');
+          var hidden = false;
+          function hideOverlay() {
+            if (hidden) return;
+            hidden = true;
+            overlay.classList.add('vinyl-map-overlay--hidden');
+            setTimeout(function () {
+              if (overlay.parentNode) overlay.parentNode.removeChild(overlay);
+            }, 650);
+          }
+
+          video.addEventListener('ended', hideOverlay);
+          video.addEventListener('error', hideOverlay);
+          overlay.addEventListener('click', hideOverlay);
+          setTimeout(hideOverlay, 9000);
         }
         init();
       })();
