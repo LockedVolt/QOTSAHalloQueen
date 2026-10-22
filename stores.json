@@ -2022,9 +2022,9 @@
     "address": "",
     "country": "Italy",
     "phone": "",
-    "url": "https://lesypersonore.com",
+    "url": "https://www.lysrecords.com/",
     "additional": "",
-    "instagram": "@lesypersonore",
+    "instagram": "@les.yper.sound",
     "coordinates": "{\"lat\": 45.0677551, \"lon\": 7.6824892}",
     "state": ""
   },
@@ -5207,6 +5207,18 @@
     "instagram": "@hifihits",
     "coordinates": "{\"lat\": 42.960635284941, \"lon\": -78.757774780721}",
     "state": "New York"
+  },
+    {
+    "store": "Utopia Records",
+    "city": "Sydney",
+    "address": "Lower Ground Floor/511 Kent Street, entrance on, Bathurst St, Sydney NSW 2000",
+    "country": "Australia",
+    "phone": "",
+    "url": "https://utopia.com.au   ",
+    "additional": "",
+    "instagram": "@utopiarecords",
+    "coordinates": "{\"lat\": -33.8743687, \"lon\": 151.2025836}",
+    "state": ""
   },
   {
     "store": "Yellow Dog Discs",
