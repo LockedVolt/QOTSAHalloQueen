@@ -552,18 +552,7 @@
     "coordinates": "{\"lat\": 46.2354187, \"lon\": -63.1265388}",
     "state": ""
   },
-  {
-    "store": "Backstreet",
-    "city": "Fredericton",
-    "address": "",
-    "country": "Canada",
-    "phone": "",
-    "url": "https://backstreetfred.substack.com",
-    "additional": "",
-    "instagram": "@backstreetrecords",
-    "coordinates": "{\"lat\": 45.9488278, \"lon\": -66.6291827}",
-    "state": ""
-  },
+
   {
     "store": "Beat Street",
     "city": "Vancouver",
@@ -576,6 +565,8 @@
     "coordinates": "{\"lat\": 49.2608724, \"lon\": -123.113952}",
     "state": ""
   },
+
+
   {
     "store": "Blackbyrd",
     "city": "Edmonton",
@@ -5207,6 +5198,18 @@
     "instagram": "@utopiarecords",
     "coordinates": "{\"lat\": -33.8743687, \"lon\": 151.2025836}",
     "state": ""
+  },
+      {
+    "store": "Looney Tunes",
+    "city": "West Babylon",
+    "address": "31 Brookvale Ave, West Babylon, NY 11704, United States",
+    "country": "United States",
+    "phone": "",
+    "url": "https://www.looneytuneslongisland.com/",
+    "additional": "",
+    "instagram": "@looneytunescds",
+    "coordinates": "{\"lat\": 40.6867963, \"lon\": -73.3497436}",
+    "state": "New York"
   },
   {
     "store": "Yellow Dog Discs",
